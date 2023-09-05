@@ -1,0 +1,10 @@
+div>div{
+    height: 100px;
+    width: 50px;
+    border: solid 2px;
+    margin: 20px;
+}
+#main{
+    display: flex;
+    
+}
